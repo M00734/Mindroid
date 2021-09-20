@@ -1,0 +1,35 @@
+
+
+    .Top-Main{
+        background-image: url(28942.jpg);
+
+    }
+    .Top-Main ul{
+        list-style: none;
+        color:rgb(255, 255, 255);
+        text-align: center;
+        overflow: auto;
+        display: inline-block;
+        
+        
+    }
+    .Top-Main li{
+        float: left;
+        margin: 20px;
+        background-color: rgb(66, 142, 168);
+        padding: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+        border-radius: 20px;
+    }
+    .Top-Main li a{
+        text-decoration: none;
+        color: white;
+        display: block;
+        transition: .5s background-color;
+        padding: 0 34px;
+    }
+    .Top-Main li a:hover{
+        background-color:#0f7192;
+        border-radius: 20px;
+    }
