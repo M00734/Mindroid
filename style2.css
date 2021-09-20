@@ -2,7 +2,7 @@
 
     .Top-Main{
         background-image: url(28942.jpg);
-
+        width: 100%;
     }
     .Top-Main ul{
         list-style: none;
@@ -33,3 +33,28 @@
         background-color:#0f7192;
         border-radius: 20px;
     }
+    .JE{
+        float: left;
+        margin: 20px;
+        background-color: rgb(78 166 196);
+        padding: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+        border-radius: 20px;
+        display: block;
+        margin-left: 40%;
+        margin-right: auto;
+    }
+    div.Magazines{
+        width: 47%;
+    }
+    .JE-link{
+        text-decoration: none;
+        color: white;
+        
+    }
+    .JE-link:hover{
+        background-color: rgb(0, 0, 0);
+    }
+
+    
